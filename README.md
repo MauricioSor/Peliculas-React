@@ -8,7 +8,6 @@
 
 ## Tecnologies 📚 // Tools 🛠️
 - [React-Bootstrap](https://react-bootstrap.github.io/)
-- [Bootstrap V5.2](https://getbootstrap.com/)
 - CSS3
 - HTML
 
